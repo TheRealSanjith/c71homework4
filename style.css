@@ -1,0 +1,69 @@
+#video
+{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+#lib
+
+{
+    width: 850px;
+    height: 800px;
+}
+
+.campus_head
+{
+  font-size: 20px;
+  padding: 6px 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+
+}
+
+.campus_head i
+
+{
+    float: right;
+    
+}
+
+.campus_text span
+{
+    color: orange;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15;}
+
+    .movie head i
+    {
+        float: right;
+
+    }
+
+    .achievements_text span
+    {
+        color: orange;
+    }
+
+    .school_head{
+         font-size: 20px;
+          padding: 6px 22px;
+           border-radius: 10px;
+            margin-bottom: 15px;
+         }
+
+         .school_head i{ 
+            float: right; 
+        }
+    
+        #contact iframe
+        {
+             width: 100%;
+             
+        }
